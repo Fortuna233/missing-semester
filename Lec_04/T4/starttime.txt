@@ -1,0 +1,10 @@
+2月 14 02:59:43 ubuntu systemd[1]: Startup finished in 5.984s (firmware) + 3.764s (loader) + 1.155s (kernel) + 9.656s (userspace) = 20.560s.
+2月 14 06:19:11 ubuntu systemd[1]: Startup finished in 5.986s (firmware) + 3.826s (loader) + 1.158s (kernel) + 9.393s (userspace) = 20.364s.
+2月 14 06:37:08 ubuntu systemd[1]: Startup finished in 5.850s (firmware) + 4.353s (loader) + 1.166s (kernel) + 9.695s (userspace) = 21.066s.
+2月 14 12:36:59 ubuntu systemd[1]: Startup finished in 6.010s (firmware) + 3.877s (loader) + 1.154s (kernel) + 9.628s (userspace) = 20.670s.
+2月 15 08:29:30 ubuntu systemd[1]: Startup finished in 5.983s (firmware) + 13.099s (loader) + 1.156s (kernel) + 9.843s (userspace) = 30.082s.
+2月 15 12:30:25 ubuntu systemd[1]: Startup finished in 5.998s (firmware) + 3.542s (loader) + 1.149s (kernel) + 9.778s (userspace) = 20.467s.
+2月 15 15:28:32 ubuntu systemd[1]: Startup finished in 5.964s (firmware) + 3.506s (loader) + 1.155s (kernel) + 9.855s (userspace) = 20.481s.
+2月 15 15:47:12 ubuntu systemd[1]: Startup finished in 5.842s (firmware) + 4.872s (loader) + 1.171s (kernel) + 9.798s (userspace) = 21.683s.
+2月 15 15:48:05 ubuntu systemd[1]: Startup finished in 5.870s (firmware) + 4.837s (loader) + 1.166s (kernel) + 9.652s (userspace) = 21.527s.
+2月 15 15:48:54 ubuntu systemd[1]: Startup finished in 5.826s (firmware) + 4.442s (loader) + 1.172s (kernel) + 9.814s (userspace) = 21.256s.
