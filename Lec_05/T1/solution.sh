@@ -1,8 +1,8 @@
 #!/bin/bash
 
-bg sleep 1000
+sleep 1000 &
 pgrep "sleep"
-pkill "sleep"
+pkill -f "sleep"
 
 
 #pgrep 以进程的指令为关键词正则匹配，然后返回关键词
